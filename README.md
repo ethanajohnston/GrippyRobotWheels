@@ -13,9 +13,9 @@ These wheels are designed to work with shaft sizes ranging from 3mm to 8mm, maki
 
 ### Features:
 - Superior traction on multiple surfaces (plywood, concrete, melamine, MDF, foam, tile)
-- Fits shaft sizes ranging from 3mm to 8mm (can be easily modified to fit your needs)
+- Fits shaft sizes ranging from 3mm to 8mm natively
 - Easy assembly
-- No DIY rubber moulded tires
+- No DIY rubber moulded treads
 - Customizable design with provided CAD files
 
 ### Materials Required:
