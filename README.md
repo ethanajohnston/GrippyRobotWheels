@@ -2,7 +2,7 @@
 
 These 2.75in (70mm) robot wheels have tons of traction and were originally designed to address the critical issue of slippage in custom autonomous robotics competitions. Traditional wheels from robot kits often fail to provide adequate grip, resulting in unreliable localization and compromised robot performance. These wheels offer superior traction on multiple surfaces, including plywood, concrete, melamine, MDF, foam, tile... This enhanced grip ensures that the robots can navigate accurately and efficiently, regardless of the operating environment.
 
-These wheels are designed to work with shaft sizes ranging from 3mm to 8mm, making them versatile for various robotic applications. The assembly process is straightforward, requiring no DIY molding or janky wheel/shaft adapters.
+These wheels are designed to work with shaft sizes ranging from 2mm to 8mm, making them versatile for various robotic applications. The assembly process is straightforward, requiring no DIY moulding or janky wheel/shaft adapters.
 
 ### IMAGES
 
@@ -13,7 +13,7 @@ These wheels are designed to work with shaft sizes ranging from 3mm to 8mm, maki
 
 ### Features:
 - Superior traction on multiple surfaces (plywood, concrete, melamine, MDF, foam, tile)
-- Fits shaft sizes ranging from 3mm to 8mm natively
+- Fits shaft sizes ranging from 2mm to 8mm natively
 - Easy assembly
 - No DIY rubber moulded treads
 - Customizable design with provided CAD files
