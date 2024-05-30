@@ -31,3 +31,8 @@ The provided CAD files allows easy modification of the design to accommodate oth
 There are 4in and 3.25in Vex Wheels that are made of the same material. A similar approach could be used for those wheels.
 
 ### ROBOTS
+
+https://ethanjohnston.ca/projects/3901-robotics/
+
+also this robot, but I have no photos which show the upgraded wheels:
+https://ethanjohnston.ca/projects/robotics2019/
