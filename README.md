@@ -6,11 +6,16 @@ These wheels are designed to work with shaft sizes ranging from 2mm to 8mm, maki
 
 ### IMAGES
 
-![2.75in VEX Wheel](https://github.com/ethanajohnston/GrippyRobotWheels/blob/main/Images/276-1496-00.jpg)
+Stock 2.75in wheel from VEX:
 
-![Wheel Assembly 1](https://github.com/ethanajohnston/GrippyRobotWheels/blob/main/Images/Screenshot%202024-05-29%20201719.png)
+<img src="https://github.com/ethanajohnston/GrippyRobotWheels/blob/main/Images/276-1496-00.jpg" alt="2.75in VEX Wheel" width="500">
 
-![Wheel Assembly 2](https://github.com/ethanajohnston/GrippyRobotWheels/blob/main/Images/Screenshot%202024-05-29%20201738.png)
+Modified VEX wheel to support a cylindrical shaft:
+
+<img src="https://github.com/ethanajohnston/GrippyRobotWheels/blob/main/Images/Screenshot%202024-05-29%20201719.png" alt="Wheel Assembly 1" width="500">
+
+<img src="https://github.com/ethanajohnston/GrippyRobotWheels/blob/main/Images/Screenshot%202024-05-29%20201738.png" alt="Wheel Assembly 2" width="500">
+
 
 
 ### Features:
